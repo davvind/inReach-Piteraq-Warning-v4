@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02 07:33 UTC",
+  "updatedAt": "2026-11-02 18:04 UTC",
   "location": "TASIILAQ",
   "model": "harmonie_ig_sf",
   "instanceId": "2026-11-01T210000Z",
@@ -7,7 +7,7 @@
   "forecastInfo": "Latest update failed: RuntimeError",
   "stale": true,
   "level": "GRN",
-  "phase": "STALE (PITERAQ LOW)",
+  "phase": "STALE (STALE (PITERAQ LOW))",
   "risk": 19,
   "watch": false,
   "message": "GRN19 12-24T T? RES35 TRG25 CPL29 ICE1015 SEA1006 GR9.7 AG1? SF65.9 LPB40 LPV14 LPS70 VG-10 CG4 CT24+1",
